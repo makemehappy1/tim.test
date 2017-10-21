@@ -1,2 +1,1 @@
-# tim.test
-test for first time
+testing the system
